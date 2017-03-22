@@ -1,8 +1,8 @@
 {
-    "name": "shadowhand/email",
+    "name": "ushahidi/shadowhand-email",
     "description": "Email helper class, uses Swiftmailer",
     "keywords": ["email", "helper", "module", "library", "swiftmailer", "kohana", "ohanzee"],
-    "homepage": "http://github.com/shadowhand/email",
+    "homepage": "http://github.com/ushahidi/shadowhand-email",
     "license": "BSD-3-Clause",
     "authors": [
         {
